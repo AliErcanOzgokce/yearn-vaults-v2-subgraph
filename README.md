@@ -43,7 +43,7 @@ At this moment, the scripts available are:
 
 We currently have a multitude of needs across all of our yTeams. As the Yearn ecosystem and suite of products continue to grow, we look for new contributors to join our community as we rapidly scale.
 
-If you are interested in working as a yearn contributor, complete [this form](https://github.com/yearn/onboarding/invitations), and a member of our operations team will reach out within 1-2 days with the next steps.
+If you are interested in working as a yearn contributor, complete [this form](https://ec8kbdmn4sa.typeform.com/to/hWsexMTq), and a member of our operations team will reach out within 1-2 days with the next steps.
 
 For additional information on the onboarding process, [click here](https://yearnfinance.notion.site/Contributors-bceb03566612483ca139f800fb5452ad)
 
